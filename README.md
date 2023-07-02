@@ -1,5 +1,7 @@
 # Path-Planning-in-dynamic-environments-using-RRT-star
 
+### Head to the documentation [HERE]()
+
 ### Directions to use
 - Install OpenFrameworks Library using this [link](https://github.com/openframeworks/openFrameworks/blob/master/docs/table_of_contents.md).
 - Using Project Generator, create a new projecct
