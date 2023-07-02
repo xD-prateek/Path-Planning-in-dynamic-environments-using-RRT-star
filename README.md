@@ -1,6 +1,6 @@
 # Path-Planning-in-dynamic-environments-using-RRT-star
 
-### Head to the documentation [HERE]()
+### Head to the documentation [HERE](RRT_ Path Planning with dynamic obstacle.pdf)
 
 ### Directions to use
 - Install OpenFrameworks Library using this [link](https://github.com/openframeworks/openFrameworks/blob/master/docs/table_of_contents.md).
